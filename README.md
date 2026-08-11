@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About This Repository
 
-This repository contains **5 Artificial Intelligence and Machine Learning projects** completed as part of my AI/ML internship, along with my **Major Project Report**.
+This repository contains **6 Artificial Intelligence and Machine Learning projects** completed as part of my AI/ML internship, along with my **Major Project Report**.
 
 These projects demonstrate practical implementation of important Machine Learning concepts including:
 
